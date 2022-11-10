@@ -7,7 +7,7 @@
 appdirs==1.4.0            # via setuptools
 babel==2.3.4
 babeldjango==0.2.2
-boto3==1.4.4
+boto3==1.4.5
 botocore==1.5.4           # via boto3, s3transfer
 braintree==3.34.0         # via django-payments
 cffi==1.9.1               # via cryptography
@@ -45,7 +45,7 @@ idna==2.2                 # via cryptography
 iso8601==0.1.11           # via graphene-django
 jmespath==0.9.0           # via boto3, botocore
 jsonfield==1.0.3
-lxml==3.7.2               # via premailer
+lxml==4.9.1               # via premailer
 markdown==2.6.7
 maxminddb-geolite2==2015.708
 maxminddb==1.2.3
