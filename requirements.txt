@@ -30,7 +30,7 @@ django-redis==4.7.0
 django-storages==1.5.2
 django-versatileimagefield==1.6.2
 django-webpack-loader==0.4.1
-django==1.10.6
+django==4.2.27
 djangorestframework==3.5.3
 docutils==0.13.1          # via botocore
 elasticsearch==2.4.1
@@ -81,7 +81,7 @@ stripe==1.46.0            # via django-payments
 suds-jurko==0.6           # via django-payments
 text-unidecode==1.0
 typing==3.5.2.2           # via promise
-urllib3==1.19.1           # via elasticsearch
+urllib3==2.6.0           # via elasticsearch
 uwsgi==2.0.14
 xmltodict==0.10.2         # via django-payments
 
