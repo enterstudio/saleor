@@ -60,7 +60,7 @@ promise==1.0.0            # via graphene, graphql-core, graphql-relay
 psycopg2==2.6.2
 purl==1.3
 py==1.4.32                # via pytest
-pyasn1==0.1.9             # via cryptography
+pyasn1==0.6.2             # via cryptography
 pycparser==2.17           # via cffi
 pyjwt==1.4.2              # via django-payments, social-auth-core
 pyparsing==2.1.10         # via packaging
